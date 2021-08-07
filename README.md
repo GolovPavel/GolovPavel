@@ -6,5 +6,7 @@
 
 # Get in touch
 Telegram: https://t.me/PavelGolov
+
 Twitter: https://twitter.com/PavelGolov
+
 LinkedIn: https://www.linkedin.com/in/pavel-golov-37b82b182/

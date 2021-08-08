@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- I'm a software engineer. 
-- I'm interested in backend development, architecture.
+- I'm a software engineer.
+- Java Backend Engineer in the past, Golang Backend Engineer in the present.
+- I'm interested in backend development, architecture, system design, optimisations.
 - Now I'm working in Avito Tech. We develop the biggest classified project in Russia.
 
 # Get in touch

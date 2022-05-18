@@ -5,6 +5,10 @@
 - I'm interested in backend development, architecture, system design, optimisations.
 - Now I'm working in Avito Tech. We develop the biggest classified project in Russia.
 
+# My articles
+
+- [How we protected all phone numbers of private users in Avito](https://habr.com/ru/company/avito/blog/665436/)
+
 # Get in touch
 Telegram: https://t.me/PavelGolov
 

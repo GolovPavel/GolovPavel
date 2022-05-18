@@ -12,6 +12,4 @@
 - [Java and containers: best practices](https://dev.to/golovpavel/java-and-containers-best-practices-gaj).
 
 # Get in touch
-[Telegram](https://t.me/PavelGolov) [Twitter](https://twitter.com/PavelGolov) [LinkedIn](https://www.linkedin.com/in/pavel-golov-37b82b182)
-
-[Habr](https://habr.com/ru/users/Powerstrike/) [Dev.to](https://dev.to/golovpavel)
+[Telegram](https://t.me/PavelGolov) [Twitter](https://twitter.com/PavelGolov) [LinkedIn](https://www.linkedin.com/in/pavel-golov-37b82b182) [Habr](https://habr.com/ru/users/Powerstrike/) [Dev.to](https://dev.to/golovpavel)
